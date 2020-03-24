@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 丰台二中介绍
 
 You can use the [editor on GitHub](https://github.com/litian34/FTF2/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
